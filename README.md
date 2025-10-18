@@ -1,4 +1,4 @@
-# 🧠 JavaScript Basics Test
+## 🧠 JavaScript Basics Test
 
 This repository contains my answers to a set of JavaScript exercises designed to test fundamental knowledge of the language.  
 Each file corresponds to a different question or concept — similar to what you might find in a basic JavaScript skills assessment.

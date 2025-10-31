@@ -1,4 +1,5 @@
-/*Given a list of temperatures in Fahrenheit, perform the following sequence of operations:
+/*
+Given a list of temperatures in Fahrenheit, perform the following sequence of operations:
 Convert each temperature from Fahrenheit to Celsius.
 Calculate the average temperature in Celsius.
 Determine the climate condition based on the average temperature:
